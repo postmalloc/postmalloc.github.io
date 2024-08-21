@@ -51,3 +51,28 @@ a {
 @import "pswp-default-skin";
 @import "photoswipe";
 @import "gallary";
+
+
+h1 {
+  font-size: 1.8em;
+  color: $title;
+  margin-bottom: 0.5em; // Reduced margin to bring camera info closer
+}
+
+.camera-info {
+  font-size: 0.9em;
+  color: $subtitle;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 2em;
+  font-style: italic;
+}
+
+// ... (rest of the existing styles)
+
+// Responsive adjustments
+@media screen and (max-width: $layout-small) {
+  h1, .camera-info {
+    margin-left: 12px; // Align with the edge of photos on small screens
+  }
+}
