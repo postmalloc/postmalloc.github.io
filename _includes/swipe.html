@@ -220,11 +220,11 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
               return {x:rect.left, y:rect.top + pageYScroll, w:rect.width};
           },
 
-          zoomEl: false,
+          zoomEl: true,
           showHideOpacity: true,
-          maxSpreadZoom: 1,
+          maxSpreadZoom: 3,
           getDoubleTapZoom: function(isMouseClick, item) {
-            return item.initialZoomLevel;
+            return item.initialZoomLevel * 2.5;
           },
           pinchToClose: false,
           closeElClasses: ['img', 'item', 'caption', 'zoom-wrap', 'ui', 'top-bar']
