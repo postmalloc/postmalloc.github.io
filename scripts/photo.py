@@ -2,13 +2,12 @@ import conf
 import os
 from PIL import Image, ImageDraw, ImageFont
 
-
 class Photo():
     def __init__(self, path):
         self.path = path
         self.min_path = ''
         self.pil_image = Image.open(self.path).convert('RGBA')
-        self.witdh, self.height = self.pil_image.size
+        self.width, self.height = self.pil_image.size
         self.size = self.pil_image.size
 
         min_file = self.path.stem + '.min' + self.path.suffix
@@ -38,11 +37,11 @@ class Photo():
             if conf.SIGN_THUMBNAIL:
                 if not conf.SIGN_ORIGINAL:
                     signed_image = self.mark_image(self.pil_image, conf.fontsize)
-                signed_image.thumbnail(new_image_size, Image.ANTIALIAS)
+                signed_image.thumbnail(new_image_size, Image.LANCZOS)
                 self.save_image(signed_image, self.min_path)
             else:
                 min_image = self.pil_image.copy()
-                min_image.thumbnail(new_image_size, Image.ANTIALIAS)
+                min_image.thumbnail(new_image_size, Image.LANCZOS)
                 self.save_image(min_image, self.min_path)
 
         relative_path = str(self.path.relative_to(conf.DIR_PATH))
@@ -60,7 +59,6 @@ class Photo():
         if conf.DEBUG:
             img.show()
         else:
-            # rgb_img = img.convert('RGB')
             img.save(path, 'PNG')
     
     def mark_image(self, img, fontsize):
@@ -69,9 +67,10 @@ class Photo():
         font = ImageFont.truetype('./assets/font/' + conf.fontfamily, conf.fontsize)
         draw = ImageDraw.Draw(transparent_image)
 
-        t_size = font.getsize(conf.copyright)
-        t_w = t_size[0]
-        t_h = t_size[1]
+        # Use getbbox() instead of getsize()
+        bbox = font.getbbox(conf.copyright)
+        t_w = bbox[2] - bbox[0]
+        t_h = bbox[3] - bbox[1]
 
         x = (width - t_w) / 2
         y = height - 2 * t_h

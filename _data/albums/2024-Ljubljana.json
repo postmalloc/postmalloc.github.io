@@ -1,0 +1,46 @@
+{
+  "order": [
+    "photo-5.jpg",
+    "photo-4.jpg",
+    "photo-3.jpg",
+    "photo-2.jpg",
+    "photo-1.jpg"
+  ],
+  "dict": {
+    "photo-5.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana/photo-5.jpg",
+      "min_path": "./photos/2024/Ljubljana/photo-5.min.jpg"
+    },
+    "photo-4.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana/photo-4.jpg",
+      "min_path": "./photos/2024/Ljubljana/photo-4.min.jpg"
+    },
+    "photo-3.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana/photo-3.jpg",
+      "min_path": "./photos/2024/Ljubljana/photo-3.min.jpg"
+    },
+    "photo-2.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana/photo-2.jpg",
+      "min_path": "./photos/2024/Ljubljana/photo-2.min.jpg"
+    },
+    "photo-1.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana/photo-1.jpg",
+      "min_path": "./photos/2024/Ljubljana/photo-1.min.jpg"
+    }
+  }
+}

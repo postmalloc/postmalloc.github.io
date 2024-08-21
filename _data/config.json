@@ -1,106 +1,323 @@
 [
   {
-    "name": "Street",
+    "name": "Ljubljana, Slovenia",
     "type": "photos",
     "parents": [
-      "2019",
-      "August",
-      "Street"
+      "2024",
+      "Ljubljana, Slovenia"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/12.jpg",
-        "min_path": "./photos/2019/August/Street/12.min.jpg"
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-7.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-7.min.jpg"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/10.jpg",
-        "min_path": "./photos/2019/August/Street/10.min.jpg"
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-6.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-6.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3393,
-        "height": 5089,
-        "path": "./photos/2019/August/Street/08.jpg",
-        "min_path": "./photos/2019/August/Street/08.min.jpg"
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-5.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-5.min.jpg"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1276,
-        "path": "./photos/2019/August/Street/07.jpg",
-        "min_path": "./photos/2019/August/Street/07.min.jpg"
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-4.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-4.min.jpg"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1276,
-        "path": "./photos/2019/August/Street/05.jpg",
-        "min_path": "./photos/2019/August/Street/05.min.jpg"
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-3.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-3.min.jpg"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/04.jpg",
-        "min_path": "./photos/2019/August/Street/04.min.jpg"
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-2.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-1.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-1.min.jpg"
       }
     ]
   },
   {
-    "name": "Hokkaido December",
+    "name": "Leopoldsteinersee, Austria",
     "type": "photos",
     "parents": [
-      "2018",
-      "Hokkaido December"
+      "2024",
+      "Leopoldsteinersee, Austria"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1133,
-        "path": "./photos/2018/Hokkaido December/13.jpg",
-        "min_path": "./photos/2018/Hokkaido December/13.min.jpg"
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-8.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-8.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 983,
-        "path": "./photos/2018/Hokkaido December/08.jpg",
-        "min_path": "./photos/2018/Hokkaido December/08.min.jpg"
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-7.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-7.min.jpg"
       },
       {
         "type": "photo",
-        "width": 4344,
-        "height": 2897,
-        "path": "./photos/2018/Hokkaido December/07.jpg",
-        "min_path": "./photos/2018/Hokkaido December/07.min.jpg"
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-6.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-6.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1134,
-        "path": "./photos/2018/Hokkaido December/05.jpg",
-        "min_path": "./photos/2018/Hokkaido December/05.min.jpg"
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-5.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-5.min.jpg"
       },
       {
         "type": "photo",
-        "width": 4806,
-        "height": 3201,
-        "path": "./photos/2018/Hokkaido December/04.jpg",
-        "min_path": "./photos/2018/Hokkaido December/04.min.jpg"
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-4.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-4.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1122,
-        "path": "./photos/2018/Hokkaido December/01.jpg",
-        "min_path": "./photos/2018/Hokkaido December/01.min.jpg"
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-3.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-2.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-1.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Hallstatt, Austria",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Hallstatt, Austria"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-5.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-4.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-3.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-2.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-1.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Admont, Austria",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Admont, Austria"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Admont, Austria/Photo-5.jpg",
+        "min_path": "./photos/2024/Admont, Austria/Photo-5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Admont, Austria/Photo-4.jpg",
+        "min_path": "./photos/2024/Admont, Austria/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Admont, Austria/Photo-3.jpg",
+        "min_path": "./photos/2024/Admont, Austria/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Admont, Austria/Photo-2.jpg",
+        "min_path": "./photos/2024/Admont, Austria/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Admont, Austria/Photo-1.jpg",
+        "min_path": "./photos/2024/Admont, Austria/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Frohnleiten, Austria",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Frohnleiten, Austria"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Frohnleiten, Austria/Photo-2.jpg",
+        "min_path": "./photos/2024/Frohnleiten, Austria/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Frohnleiten, Austria/Photo-1.jpg",
+        "min_path": "./photos/2024/Frohnleiten, Austria/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Positano, Italy",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Positano, Italy"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Positano, Italy/Photo-2.jpg",
+        "min_path": "./photos/2024/Positano, Italy/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Positano, Italy/Photo-1.jpg",
+        "min_path": "./photos/2024/Positano, Italy/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "April",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "April"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/April/Photo-7.jpg",
+        "min_path": "./photos/2024/April/Photo-7.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/April/Photo-6.jpg",
+        "min_path": "./photos/2024/April/Photo-6.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/April/Photo-5.jpg",
+        "min_path": "./photos/2024/April/Photo-5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/April/Photo-4.jpg",
+        "min_path": "./photos/2024/April/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/April/Photo-3.jpg",
+        "min_path": "./photos/2024/April/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2114,
+        "height": 3000,
+        "path": "./photos/2024/April/Photo-2.jpg",
+        "min_path": "./photos/2024/April/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/April/Photo-1.jpg",
+        "min_path": "./photos/2024/April/Photo-1.min.jpg"
       }
     ]
   }

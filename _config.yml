@@ -1,15 +1,15 @@
-name: Horcrux
+name: Srimukh Sripada
 
 frame_padding: 10px
 
 column: 3
-column_gap: 30px
-row_gap: 30px
+column_gap: 20px
+row_gap: 20px
 
 small_screen:
   column: 2
-  column_gap: 10px
-  row_gap: 10px
+  column_gap: 5px
+  row_gap: 5px
 
 process:
   keep_order: True
@@ -24,12 +24,12 @@ process:
     min_width: 600
     watermark:
       thumbnail: False
-      original: True
+      original: False
       fontsize: 40
       fontfamily: Eczar-Medium.ttf
       rotate: 0
 
-instagram: 
+instagram: srimukh
 
 sass:
   sass_dir: _sass

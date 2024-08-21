@@ -1,0 +1,22 @@
+{
+  "order": [
+    "Photo-2.jpg",
+    "Photo-1.jpg"
+  ],
+  "dict": {
+    "Photo-2.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Frohnleiten, Austria/Photo-2.jpg",
+      "min_path": "./photos/2024/Frohnleiten, Austria/Photo-2.min.jpg"
+    },
+    "Photo-1.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Frohnleiten, Austria/Photo-1.jpg",
+      "min_path": "./photos/2024/Frohnleiten, Austria/Photo-1.min.jpg"
+    }
+  }
+}
