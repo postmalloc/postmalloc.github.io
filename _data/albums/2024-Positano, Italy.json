@@ -1,9 +1,17 @@
 {
   "order": [
+    "Photo-3.jpg",
     "Photo-2.jpg",
     "Photo-1.jpg"
   ],
   "dict": {
+    "Photo-3.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Positano, Italy/Photo-3.jpg",
+      "min_path": "./photos/2024/Positano, Italy/Photo-3.min.jpg"
+    },
     "Photo-2.jpg": {
       "type": "photo",
       "width": 3000,

@@ -1,5 +1,6 @@
 {
   "order": [
+    "Photo-9.jpg",
     "Photo-8.jpg",
     "Photo-7.jpg",
     "Photo-6.jpg",
@@ -10,6 +11,13 @@
     "Photo-1.jpg"
   ],
   "dict": {
+    "Photo-9.jpg": {
+      "type": "photo",
+      "width": 1990,
+      "height": 3000,
+      "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-9.jpg",
+      "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-9.min.jpg"
+    },
     "Photo-8.jpg": {
       "type": "photo",
       "width": 3000,

@@ -1,0 +1,86 @@
+{
+  "order": [
+    "Photo-9.jpg",
+    "Photo-8.jpg",
+    "Photo-7.jpg",
+    "Photo-6.jpg",
+    "Photo-5.jpg",
+    "Photo-4.jpg",
+    "Photo-3.jpg",
+    "Photo-2.jpg",
+    "Photo-10.jpg",
+    "Photo-1.jpg"
+  ],
+  "dict": {
+    "Photo-9.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Italy/Photo-9.jpg",
+      "min_path": "./photos/2024/Italy/Photo-9.min.jpg"
+    },
+    "Photo-8.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Italy/Photo-8.jpg",
+      "min_path": "./photos/2024/Italy/Photo-8.min.jpg"
+    },
+    "Photo-7.jpg": {
+      "type": "photo",
+      "width": 1990,
+      "height": 3000,
+      "path": "./photos/2024/Italy/Photo-7.jpg",
+      "min_path": "./photos/2024/Italy/Photo-7.min.jpg"
+    },
+    "Photo-6.jpg": {
+      "type": "photo",
+      "width": 1990,
+      "height": 3000,
+      "path": "./photos/2024/Italy/Photo-6.jpg",
+      "min_path": "./photos/2024/Italy/Photo-6.min.jpg"
+    },
+    "Photo-5.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Italy/Photo-5.jpg",
+      "min_path": "./photos/2024/Italy/Photo-5.min.jpg"
+    },
+    "Photo-4.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Italy/Photo-4.jpg",
+      "min_path": "./photos/2024/Italy/Photo-4.min.jpg"
+    },
+    "Photo-3.jpg": {
+      "type": "photo",
+      "width": 1990,
+      "height": 3000,
+      "path": "./photos/2024/Italy/Photo-3.jpg",
+      "min_path": "./photos/2024/Italy/Photo-3.min.jpg"
+    },
+    "Photo-2.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Italy/Photo-2.jpg",
+      "min_path": "./photos/2024/Italy/Photo-2.min.jpg"
+    },
+    "Photo-10.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Italy/Photo-10.jpg",
+      "min_path": "./photos/2024/Italy/Photo-10.min.jpg"
+    },
+    "Photo-1.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Italy/Photo-1.jpg",
+      "min_path": "./photos/2024/Italy/Photo-1.min.jpg"
+    }
+  }
+}

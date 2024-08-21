@@ -68,6 +68,13 @@
     "list": [
       {
         "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-9.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-9.min.jpg"
+      },
+      {
+        "type": "photo",
         "width": 3000,
         "height": 1990,
         "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-8.jpg",
@@ -125,47 +132,26 @@
     ]
   },
   {
-    "name": "Hallstatt, Austria",
+    "name": "Frohnleiten, Austria",
     "type": "photos",
     "parents": [
       "2024",
-      "Hallstatt, Austria"
+      "Frohnleiten, Austria"
     ],
     "list": [
       {
         "type": "photo",
         "width": 3000,
         "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-5.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-5.min.jpg"
+        "path": "./photos/2024/Frohnleiten, Austria/Photo-2.jpg",
+        "min_path": "./photos/2024/Frohnleiten, Austria/Photo-2.min.jpg"
       },
       {
         "type": "photo",
         "width": 3000,
         "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-4.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-4.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-3.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-3.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-2.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-2.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-1.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-1.min.jpg"
+        "path": "./photos/2024/Frohnleiten, Austria/Photo-1.jpg",
+        "min_path": "./photos/2024/Frohnleiten, Austria/Photo-1.min.jpg"
       }
     ]
   },
@@ -215,26 +201,127 @@
     ]
   },
   {
-    "name": "Frohnleiten, Austria",
+    "name": "Hallstatt, Austria",
     "type": "photos",
     "parents": [
       "2024",
-      "Frohnleiten, Austria"
+      "Hallstatt, Austria"
     ],
     "list": [
       {
         "type": "photo",
         "width": 3000,
         "height": 1990,
-        "path": "./photos/2024/Frohnleiten, Austria/Photo-2.jpg",
-        "min_path": "./photos/2024/Frohnleiten, Austria/Photo-2.min.jpg"
+        "path": "./photos/2024/Hallstatt, Austria/Photo-5.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-5.min.jpg"
       },
       {
         "type": "photo",
         "width": 3000,
         "height": 1990,
-        "path": "./photos/2024/Frohnleiten, Austria/Photo-1.jpg",
-        "min_path": "./photos/2024/Frohnleiten, Austria/Photo-1.min.jpg"
+        "path": "./photos/2024/Hallstatt, Austria/Photo-4.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-3.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-2.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-1.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Italy",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Italy"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Italy/Photo-9.jpg",
+        "min_path": "./photos/2024/Italy/Photo-9.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Italy/Photo-8.jpg",
+        "min_path": "./photos/2024/Italy/Photo-8.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Italy/Photo-7.jpg",
+        "min_path": "./photos/2024/Italy/Photo-7.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Italy/Photo-6.jpg",
+        "min_path": "./photos/2024/Italy/Photo-6.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Italy/Photo-5.jpg",
+        "min_path": "./photos/2024/Italy/Photo-5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Italy/Photo-4.jpg",
+        "min_path": "./photos/2024/Italy/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Italy/Photo-3.jpg",
+        "min_path": "./photos/2024/Italy/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Italy/Photo-2.jpg",
+        "min_path": "./photos/2024/Italy/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Italy/Photo-10.jpg",
+        "min_path": "./photos/2024/Italy/Photo-10.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Italy/Photo-1.jpg",
+        "min_path": "./photos/2024/Italy/Photo-1.min.jpg"
       }
     ]
   },
@@ -246,6 +333,13 @@
       "Positano, Italy"
     ],
     "list": [
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Positano, Italy/Photo-3.jpg",
+        "min_path": "./photos/2024/Positano, Italy/Photo-3.min.jpg"
+      },
       {
         "type": "photo",
         "width": 3000,
@@ -262,6 +356,7 @@
       }
     ]
   },
+  
   {
     "name": "April",
     "type": "photos",
@@ -321,4 +416,5 @@
       }
     ]
   }
+  
 ]

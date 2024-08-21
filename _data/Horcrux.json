@@ -17,68 +17,25 @@
         ],
         "items": {
           "order": [
-            "Ljubljana, Slovenia",
-            "Leopoldsteinersee, Austria",
-            "Hallstatt, Austria",
-            "Admont, Austria",
-            "Frohnleiten, Austria",
+            "Italy",
             "Positano, Italy",
-            "April"
+            "Leopoldsteinersee, Austria",
+            "April",
+            "Frohnleiten, Austria",
+            "Admont, Austria",
+            "Hallstatt, Austria",
+            "Ljubljana, Slovenia"
           ],
           "dict": {
-            "Ljubljana, Slovenia": {
-              "name": "Ljubljana, Slovenia",
+            "Italy": {
+              "name": "Italy",
               "type": "album",
               "root": 2,
               "parents": [
                 "2024",
-                "Ljubljana, Slovenia"
+                "Italy"
               ],
-              "path": "./_data/albums/2024-Ljubljana, Slovenia.json",
-              "no_sub_album": true
-            },
-            "Leopoldsteinersee, Austria": {
-              "name": "Leopoldsteinersee, Austria",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2024",
-                "Leopoldsteinersee, Austria"
-              ],
-              "path": "./_data/albums/2024-Leopoldsteinersee, Austria.json",
-              "no_sub_album": true
-            },
-            "Hallstatt, Austria": {
-              "name": "Hallstatt, Austria",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2024",
-                "Hallstatt, Austria"
-              ],
-              "path": "./_data/albums/2024-Hallstatt, Austria.json",
-              "no_sub_album": true
-            },
-            "Admont, Austria": {
-              "name": "Admont, Austria",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2024",
-                "Admont, Austria"
-              ],
-              "path": "./_data/albums/2024-Admont, Austria.json",
-              "no_sub_album": true
-            },
-            "Frohnleiten, Austria": {
-              "name": "Frohnleiten, Austria",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2024",
-                "Frohnleiten, Austria"
-              ],
-              "path": "./_data/albums/2024-Frohnleiten, Austria.json",
+              "path": "./_data/albums/2024-Italy.json",
               "no_sub_album": true
             },
             "Positano, Italy": {
@@ -92,6 +49,17 @@
               "path": "./_data/albums/2024-Positano, Italy.json",
               "no_sub_album": true
             },
+            "Leopoldsteinersee, Austria": {
+              "name": "Leopoldsteinersee, Austria",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Leopoldsteinersee, Austria"
+              ],
+              "path": "./_data/albums/2024-Leopoldsteinersee, Austria.json",
+              "no_sub_album": true
+            },
             "April": {
               "name": "April",
               "type": "album",
@@ -101,6 +69,50 @@
                 "April"
               ],
               "path": "./_data/albums/2024-April.json",
+              "no_sub_album": true
+            },
+            "Frohnleiten, Austria": {
+              "name": "Frohnleiten, Austria",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Frohnleiten, Austria"
+              ],
+              "path": "./_data/albums/2024-Frohnleiten, Austria.json",
+              "no_sub_album": true
+            },
+            "Admont, Austria": {
+              "name": "Admont, Austria",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Admont, Austria"
+              ],
+              "path": "./_data/albums/2024-Admont, Austria.json",
+              "no_sub_album": true
+            },
+            "Hallstatt, Austria": {
+              "name": "Hallstatt, Austria",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Hallstatt, Austria"
+              ],
+              "path": "./_data/albums/2024-Hallstatt, Austria.json",
+              "no_sub_album": true
+            },
+            "Ljubljana, Slovenia": {
+              "name": "Ljubljana, Slovenia",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Ljubljana, Slovenia"
+              ],
+              "path": "./_data/albums/2024-Ljubljana, Slovenia.json",
               "no_sub_album": true
             }
           }
