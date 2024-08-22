@@ -19,34 +19,22 @@
           "order": [
             "Ljubljana, Slovenia",
             "Leopoldsteinersee, Austria",
-            "Frohnleiten, Austria",
             "Admont, Austria",
             "Hallstatt, Austria",
-            "Italy",
-            "Positano, Italy",
+            "Frohnleiten, Austria",
+            "Campania, Italy",
             "April"
           ],
           "dict": {
-            "Italy": {
-              "name": "Italy",
+            "Campania, Italy": {
+              "name": "Campania, Italy",
               "type": "album",
               "root": 2,
               "parents": [
                 "2024",
-                "Italy"
+                "Campania, Italy"
               ],
-              "path": "./_data/albums/2024-Italy.json",
-              "no_sub_album": true
-            },
-            "Positano, Italy": {
-              "name": "Positano, Italy",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2024",
-                "Positano, Italy"
-              ],
-              "path": "./_data/albums/2024-Positano, Italy.json",
+              "path": "./_data/albums/2024-Campania, Italy.json",
               "no_sub_album": true
             },
             "Leopoldsteinersee, Austria": {
