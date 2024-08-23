@@ -1,0 +1,286 @@
+{
+  "order": [
+    "Photo-9.jpg",
+    "Photo-8.jpg",
+    "Photo-7.jpg",
+    "Photo-6.jpg",
+    "Photo-5.jpg",
+    "Photo-4.jpg",
+    "Photo-35.jpg",
+    "Photo-34.jpg",
+    "Photo-33.jpg",
+    "Photo-32.jpg",
+    "Photo-31.jpg",
+    "Photo-30.jpg",
+    "Photo-3.jpg",
+    "Photo-29.jpg",
+    "Photo-28.jpg",
+    "Photo-27.jpg",
+    "Photo-26.jpg",
+    "Photo-25.jpg",
+    "Photo-24.jpg",
+    "Photo-23.jpg",
+    "Photo-22.jpg",
+    "Photo-21.jpg",
+    "Photo-20.jpg",
+    "Photo-2.jpg",
+    "Photo-19.jpg",
+    "Photo-18.jpg",
+    "Photo-17.jpg",
+    "Photo-16.jpg",
+    "Photo-15.jpg",
+    "Photo-14.jpg",
+    "Photo-13.jpg",
+    "Photo-12.jpg",
+    "Photo-11.jpg",
+    "Photo-10.jpg",
+    "Photo-1.jpg"
+  ],
+  "dict": {
+    "Photo-9.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-9.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-9.min.jpg"
+    },
+    "Photo-8.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-8.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-8.min.jpg"
+    },
+    "Photo-7.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-7.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-7.min.jpg"
+    },
+    "Photo-6.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-6.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-6.min.jpg"
+    },
+    "Photo-5.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-5.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-5.min.jpg"
+    },
+    "Photo-4.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-4.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-4.min.jpg"
+    },
+    "Photo-35.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-35.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-35.min.jpg"
+    },
+    "Photo-34.jpg": {
+      "type": "photo",
+      "width": 1990,
+      "height": 3000,
+      "path": "./photos/2024/Budapest, Hungary/Photo-34.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-34.min.jpg"
+    },
+    "Photo-33.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-33.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-33.min.jpg"
+    },
+    "Photo-32.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-32.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-32.min.jpg"
+    },
+    "Photo-31.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-31.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-31.min.jpg"
+    },
+    "Photo-30.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-30.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-30.min.jpg"
+    },
+    "Photo-3.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-3.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-3.min.jpg"
+    },
+    "Photo-29.jpg": {
+      "type": "photo",
+      "width": 1990,
+      "height": 3000,
+      "path": "./photos/2024/Budapest, Hungary/Photo-29.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-29.min.jpg"
+    },
+    "Photo-28.jpg": {
+      "type": "photo",
+      "width": 1990,
+      "height": 3000,
+      "path": "./photos/2024/Budapest, Hungary/Photo-28.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-28.min.jpg"
+    },
+    "Photo-27.jpg": {
+      "type": "photo",
+      "width": 1990,
+      "height": 3000,
+      "path": "./photos/2024/Budapest, Hungary/Photo-27.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-27.min.jpg"
+    },
+    "Photo-26.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-26.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-26.min.jpg"
+    },
+    "Photo-25.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-25.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-25.min.jpg"
+    },
+    "Photo-24.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-24.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-24.min.jpg"
+    },
+    "Photo-23.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-23.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-23.min.jpg"
+    },
+    "Photo-22.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-22.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-22.min.jpg"
+    },
+    "Photo-21.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-21.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-21.min.jpg"
+    },
+    "Photo-20.jpg": {
+      "type": "photo",
+      "width": 1990,
+      "height": 3000,
+      "path": "./photos/2024/Budapest, Hungary/Photo-20.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-20.min.jpg"
+    },
+    "Photo-2.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-2.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-2.min.jpg"
+    },
+    "Photo-19.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-19.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-19.min.jpg"
+    },
+    "Photo-18.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-18.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-18.min.jpg"
+    },
+    "Photo-17.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-17.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-17.min.jpg"
+    },
+    "Photo-16.jpg": {
+      "type": "photo",
+      "width": 1990,
+      "height": 3000,
+      "path": "./photos/2024/Budapest, Hungary/Photo-16.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-16.min.jpg"
+    },
+    "Photo-15.jpg": {
+      "type": "photo",
+      "width": 1990,
+      "height": 3000,
+      "path": "./photos/2024/Budapest, Hungary/Photo-15.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-15.min.jpg"
+    },
+    "Photo-14.jpg": {
+      "type": "photo",
+      "width": 1990,
+      "height": 3000,
+      "path": "./photos/2024/Budapest, Hungary/Photo-14.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-14.min.jpg"
+    },
+    "Photo-13.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-13.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-13.min.jpg"
+    },
+    "Photo-12.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-12.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-12.min.jpg"
+    },
+    "Photo-11.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-11.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-11.min.jpg"
+    },
+    "Photo-10.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-10.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-10.min.jpg"
+    },
+    "Photo-1.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-1.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-1.min.jpg"
+    }
+  }
+}

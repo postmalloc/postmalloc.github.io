@@ -1,247 +1,256 @@
 [
   {
-    "name": "Ljubljana, Slovenia",
+    "name": "Budapest, Hungary",
     "type": "photos",
     "parents": [
       "2024",
-      "Ljubljana, Slovenia"
+      "Budapest, Hungary"
     ],
     "list": [
       {
         "type": "photo",
         "width": 3000,
         "height": 1990,
-        "path": "./photos/2024/Ljubljana, Slovenia/Photo-7.jpg",
-        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-7.min.jpg"
+        "path": "./photos/2024/Budapest, Hungary/Photo-9.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-9.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-8.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-8.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-7.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-7.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-6.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-6.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-5.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-4.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-35.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-35.min.jpg"
       },
       {
         "type": "photo",
         "width": 1990,
         "height": 3000,
-        "path": "./photos/2024/Ljubljana, Slovenia/Photo-6.jpg",
-        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-6.min.jpg"
+        "path": "./photos/2024/Budapest, Hungary/Photo-34.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-34.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-33.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-33.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-32.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-32.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-31.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-31.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-30.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-30.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-3.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-3.min.jpg"
       },
       {
         "type": "photo",
         "width": 1990,
         "height": 3000,
-        "path": "./photos/2024/Ljubljana, Slovenia/Photo-5.jpg",
-        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-5.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Ljubljana, Slovenia/Photo-4.jpg",
-        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-4.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Ljubljana, Slovenia/Photo-3.jpg",
-        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-3.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Ljubljana, Slovenia/Photo-2.jpg",
-        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-2.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Ljubljana, Slovenia/Photo-1.jpg",
-        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-1.min.jpg"
-      }
-    ]
-  },
-  {
-    "name": "Leopoldsteinersee, Austria",
-    "type": "photos",
-    "parents": [
-      "2024",
-      "Leopoldsteinersee, Austria"
-    ],
-    "list": [
-      {
-        "type": "photo",
-        "width": 1990,
-        "height": 3000,
-        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-9.jpg",
-        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-9.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-8.jpg",
-        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-8.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-7.jpg",
-        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-7.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-6.jpg",
-        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-6.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-5.jpg",
-        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-5.min.jpg"
+        "path": "./photos/2024/Budapest, Hungary/Photo-29.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-29.min.jpg"
       },
       {
         "type": "photo",
         "width": 1990,
         "height": 3000,
-        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-4.jpg",
-        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-4.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-3.jpg",
-        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-3.min.jpg"
+        "path": "./photos/2024/Budapest, Hungary/Photo-28.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-28.min.jpg"
       },
       {
         "type": "photo",
         "width": 1990,
         "height": 3000,
-        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-2.jpg",
-        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-2.min.jpg"
+        "path": "./photos/2024/Budapest, Hungary/Photo-27.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-27.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-26.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-26.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-25.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-25.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-24.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-24.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-23.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-23.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-22.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-22.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-21.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-21.min.jpg"
       },
       {
         "type": "photo",
         "width": 1990,
         "height": 3000,
-        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-1.jpg",
-        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-1.min.jpg"
-      }
-    ]
-  },
-  {
-    "name": "Admont, Austria",
-    "type": "photos",
-    "parents": [
-      "2024",
-      "Admont, Austria"
-    ],
-    "list": [
+        "path": "./photos/2024/Budapest, Hungary/Photo-20.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-20.min.jpg"
+      },
       {
         "type": "photo",
         "width": 3000,
         "height": 1990,
-        "path": "./photos/2024/Admont, Austria/Photo-5.jpg",
-        "min_path": "./photos/2024/Admont, Austria/Photo-5.min.jpg"
+        "path": "./photos/2024/Budapest, Hungary/Photo-2.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-19.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-19.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-18.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-18.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-17.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-17.min.jpg"
       },
       {
         "type": "photo",
         "width": 1990,
         "height": 3000,
-        "path": "./photos/2024/Admont, Austria/Photo-4.jpg",
-        "min_path": "./photos/2024/Admont, Austria/Photo-4.min.jpg"
+        "path": "./photos/2024/Budapest, Hungary/Photo-16.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-16.min.jpg"
       },
       {
         "type": "photo",
         "width": 1990,
         "height": 3000,
-        "path": "./photos/2024/Admont, Austria/Photo-3.jpg",
-        "min_path": "./photos/2024/Admont, Austria/Photo-3.min.jpg"
+        "path": "./photos/2024/Budapest, Hungary/Photo-15.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-15.min.jpg"
       },
       {
         "type": "photo",
         "width": 1990,
         "height": 3000,
-        "path": "./photos/2024/Admont, Austria/Photo-2.jpg",
-        "min_path": "./photos/2024/Admont, Austria/Photo-2.min.jpg"
+        "path": "./photos/2024/Budapest, Hungary/Photo-14.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-14.min.jpg"
       },
       {
         "type": "photo",
         "width": 3000,
         "height": 1990,
-        "path": "./photos/2024/Admont, Austria/Photo-1.jpg",
-        "min_path": "./photos/2024/Admont, Austria/Photo-1.min.jpg"
-      }
-    ]
-  },
-  {
-    "name": "Hallstatt, Austria",
-    "type": "photos",
-    "parents": [
-      "2024",
-      "Hallstatt, Austria"
-    ],
-    "list": [
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-5.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-5.min.jpg"
+        "path": "./photos/2024/Budapest, Hungary/Photo-13.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-13.min.jpg"
       },
       {
         "type": "photo",
         "width": 3000,
         "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-4.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-4.min.jpg"
+        "path": "./photos/2024/Budapest, Hungary/Photo-12.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-12.min.jpg"
       },
       {
         "type": "photo",
         "width": 3000,
         "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-3.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-3.min.jpg"
+        "path": "./photos/2024/Budapest, Hungary/Photo-11.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-11.min.jpg"
       },
       {
         "type": "photo",
         "width": 3000,
         "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-2.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-2.min.jpg"
+        "path": "./photos/2024/Budapest, Hungary/Photo-10.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-10.min.jpg"
       },
       {
         "type": "photo",
         "width": 3000,
         "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-1.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-1.min.jpg"
-      }
-    ]
-  },
-  {
-    "name": "Frohnleiten, Austria",
-    "type": "photos",
-    "parents": [
-      "2024",
-      "Frohnleiten, Austria"
-    ],
-    "list": [
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Frohnleiten, Austria/Photo-2.jpg",
-        "min_path": "./photos/2024/Frohnleiten, Austria/Photo-2.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Frohnleiten, Austria/Photo-1.jpg",
-        "min_path": "./photos/2024/Frohnleiten, Austria/Photo-1.min.jpg"
+        "path": "./photos/2024/Budapest, Hungary/Photo-1.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-1.min.jpg"
       }
     ]
   },
@@ -347,6 +356,79 @@
     ]
   },
   {
+    "name": "Leopoldsteinersee, Austria",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Leopoldsteinersee, Austria"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-9.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-9.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-8.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-8.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-7.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-7.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-6.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-6.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-5.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-4.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-3.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-2.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-1.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
     "name": "April",
     "type": "photos",
     "parents": [
@@ -402,6 +484,179 @@
         "height": 1990,
         "path": "./photos/2024/April/Photo-1.jpg",
         "min_path": "./photos/2024/April/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Frohnleiten, Austria",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Frohnleiten, Austria"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Frohnleiten, Austria/Photo-2.jpg",
+        "min_path": "./photos/2024/Frohnleiten, Austria/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Frohnleiten, Austria/Photo-1.jpg",
+        "min_path": "./photos/2024/Frohnleiten, Austria/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Admont, Austria",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Admont, Austria"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Admont, Austria/Photo-5.jpg",
+        "min_path": "./photos/2024/Admont, Austria/Photo-5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Admont, Austria/Photo-4.jpg",
+        "min_path": "./photos/2024/Admont, Austria/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Admont, Austria/Photo-3.jpg",
+        "min_path": "./photos/2024/Admont, Austria/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Admont, Austria/Photo-2.jpg",
+        "min_path": "./photos/2024/Admont, Austria/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Admont, Austria/Photo-1.jpg",
+        "min_path": "./photos/2024/Admont, Austria/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Hallstatt, Austria",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Hallstatt, Austria"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-5.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-4.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-3.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-2.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-1.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Ljubljana, Slovenia",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Ljubljana, Slovenia"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-7.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-7.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-6.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-6.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-5.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-4.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-3.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-2.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-1.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-1.min.jpg"
       }
     ]
   }

@@ -17,15 +17,27 @@
         ],
         "items": {
           "order": [
-            "Ljubljana, Slovenia",
+            "Budapest, Hungary",
+            "Campania, Italy",
             "Leopoldsteinersee, Austria",
+            "April",
+            "Frohnleiten, Austria",
             "Admont, Austria",
             "Hallstatt, Austria",
-            "Frohnleiten, Austria",
-            "Campania, Italy",
-            "April"
+            "Ljubljana, Slovenia"
           ],
           "dict": {
+            "Budapest, Hungary": {
+              "name": "Budapest, Hungary",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Budapest, Hungary"
+              ],
+              "path": "./_data/albums/2024-Budapest, Hungary.json",
+              "no_sub_album": true
+            },
             "Campania, Italy": {
               "name": "Campania, Italy",
               "type": "album",
