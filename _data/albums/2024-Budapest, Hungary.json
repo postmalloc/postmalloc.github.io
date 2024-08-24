@@ -6,6 +6,10 @@
     "Photo-6.jpg",
     "Photo-5.jpg",
     "Photo-4.jpg",
+    "Photo-39.jpg",
+    "Photo-38.jpg",
+    "Photo-37.jpg",
+    "Photo-36.jpg",
     "Photo-35.jpg",
     "Photo-34.jpg",
     "Photo-33.jpg",
@@ -78,6 +82,34 @@
       "height": 1990,
       "path": "./photos/2024/Budapest, Hungary/Photo-4.jpg",
       "min_path": "./photos/2024/Budapest, Hungary/Photo-4.min.jpg"
+    },
+    "Photo-39.jpg": {
+      "type": "photo",
+      "width": 1990,
+      "height": 3000,
+      "path": "./photos/2024/Budapest, Hungary/Photo-39.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-39.min.jpg"
+    },
+    "Photo-38.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-38.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-38.min.jpg"
+    },
+    "Photo-37.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-37.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-37.min.jpg"
+    },
+    "Photo-36.jpg": {
+      "type": "photo",
+      "width": 3000,
+      "height": 1990,
+      "path": "./photos/2024/Budapest, Hungary/Photo-36.jpg",
+      "min_path": "./photos/2024/Budapest, Hungary/Photo-36.min.jpg"
     },
     "Photo-35.jpg": {
       "type": "photo",

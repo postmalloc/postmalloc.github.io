@@ -51,6 +51,34 @@
       },
       {
         "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Budapest, Hungary/Photo-39.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-39.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-38.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-38.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-37.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-37.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Budapest, Hungary/Photo-36.jpg",
+        "min_path": "./photos/2024/Budapest, Hungary/Photo-36.min.jpg"
+      },
+      {
+        "type": "photo",
         "width": 3000,
         "height": 1990,
         "path": "./photos/2024/Budapest, Hungary/Photo-35.jpg",
@@ -387,6 +415,51 @@
     ]
   },
   {
+    "name": "Hallstatt, Austria",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Hallstatt, Austria"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-5.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-4.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-3.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-2.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-1.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
     "name": "Frohnleiten, Austria",
     "type": "photos",
     "parents": [
@@ -452,51 +525,6 @@
         "height": 1990,
         "path": "./photos/2024/Admont, Austria/Photo-1.jpg",
         "min_path": "./photos/2024/Admont, Austria/Photo-1.min.jpg"
-      }
-    ]
-  },
-  {
-    "name": "Hallstatt, Austria",
-    "type": "photos",
-    "parents": [
-      "2024",
-      "Hallstatt, Austria"
-    ],
-    "list": [
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-5.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-5.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-4.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-4.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-3.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-3.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-2.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-2.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Hallstatt, Austria/Photo-1.jpg",
-        "min_path": "./photos/2024/Hallstatt, Austria/Photo-1.min.jpg"
       }
     ]
   },
