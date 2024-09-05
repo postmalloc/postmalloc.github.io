@@ -1,0 +1,110 @@
+{
+  "order": [
+    "Photo-9.jpg",
+    "Photo-8.jpg",
+    "Photo-7.jpg",
+    "Photo-6.jpg",
+    "Photo-5.jpg",
+    "Photo-4.jpg",
+    "Photo-3.jpg",
+    "Photo-2.jpg",
+    "Photo-13.jpg",
+    "Photo-12.jpg",
+    "Photo-11.jpg",
+    "Photo-10.jpg",
+    "Photo-1.jpg"
+  ],
+  "dict": {
+    "Photo-9.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana-2, Slovenia/Photo-9.jpg",
+      "min_path": "./photos/2024/Ljubljana-2, Slovenia/Photo-9.min.jpg"
+    },
+    "Photo-8.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana-2, Slovenia/Photo-8.jpg",
+      "min_path": "./photos/2024/Ljubljana-2, Slovenia/Photo-8.min.jpg"
+    },
+    "Photo-7.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana-2, Slovenia/Photo-7.jpg",
+      "min_path": "./photos/2024/Ljubljana-2, Slovenia/Photo-7.min.jpg"
+    },
+    "Photo-6.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana-2, Slovenia/Photo-6.jpg",
+      "min_path": "./photos/2024/Ljubljana-2, Slovenia/Photo-6.min.jpg"
+    },
+    "Photo-5.jpg": {
+      "type": "photo",
+      "width": 4011,
+      "height": 6048,
+      "path": "./photos/2024/Ljubljana-2, Slovenia/Photo-5.jpg",
+      "min_path": "./photos/2024/Ljubljana-2, Slovenia/Photo-5.min.jpg"
+    },
+    "Photo-4.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana-2, Slovenia/Photo-4.jpg",
+      "min_path": "./photos/2024/Ljubljana-2, Slovenia/Photo-4.min.jpg"
+    },
+    "Photo-3.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana-2, Slovenia/Photo-3.jpg",
+      "min_path": "./photos/2024/Ljubljana-2, Slovenia/Photo-3.min.jpg"
+    },
+    "Photo-2.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana-2, Slovenia/Photo-2.jpg",
+      "min_path": "./photos/2024/Ljubljana-2, Slovenia/Photo-2.min.jpg"
+    },
+    "Photo-13.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana-2, Slovenia/Photo-13.jpg",
+      "min_path": "./photos/2024/Ljubljana-2, Slovenia/Photo-13.min.jpg"
+    },
+    "Photo-12.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana-2, Slovenia/Photo-12.jpg",
+      "min_path": "./photos/2024/Ljubljana-2, Slovenia/Photo-12.min.jpg"
+    },
+    "Photo-11.jpg": {
+      "type": "photo",
+      "width": 3882,
+      "height": 5854,
+      "path": "./photos/2024/Ljubljana-2, Slovenia/Photo-11.jpg",
+      "min_path": "./photos/2024/Ljubljana-2, Slovenia/Photo-11.min.jpg"
+    },
+    "Photo-10.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana-2, Slovenia/Photo-10.jpg",
+      "min_path": "./photos/2024/Ljubljana-2, Slovenia/Photo-10.min.jpg"
+    },
+    "Photo-1.jpg": {
+      "type": "photo",
+      "width": 6048,
+      "height": 4011,
+      "path": "./photos/2024/Ljubljana-2, Slovenia/Photo-1.jpg",
+      "min_path": "./photos/2024/Ljubljana-2, Slovenia/Photo-1.min.jpg"
+    }
+  }
+}

@@ -17,16 +17,39 @@
         ],
         "items": {
           "order": [
+            "Bled, Slovenia",
             "Budapest, Hungary",
             "Ljubljana, Slovenia",
             "Leopoldsteinersee, Austria",
+            "Admont, Austria",
             "Hallstatt, Austria",
             "Frohnleiten, Austria",
-            "Admont, Austria",
             "Campania, Italy",
             "April"
           ],
           "dict": {
+            "Ljubljana, Slovenia": {
+              "name": "Ljubljana, Slovenia",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Ljubljana, Slovenia"
+              ],
+              "path": "./_data/albums/2024-Ljubljana, Slovenia.json",
+              "no_sub_album": true
+            },
+            "Bled, Slovenia": {
+              "name": "Bled, Slovenia",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Bled, Slovenia"
+              ],
+              "path": "./_data/albums/2024-Bled, Slovenia.json",
+              "no_sub_album": true
+            },
             "Budapest, Hungary": {
               "name": "Budapest, Hungary",
               "type": "album",
@@ -102,17 +125,6 @@
                 "Hallstatt, Austria"
               ],
               "path": "./_data/albums/2024-Hallstatt, Austria.json",
-              "no_sub_album": true
-            },
-            "Ljubljana, Slovenia": {
-              "name": "Ljubljana, Slovenia",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2024",
-                "Ljubljana, Slovenia"
-              ],
-              "path": "./_data/albums/2024-Ljubljana, Slovenia.json",
               "no_sub_album": true
             }
           }
