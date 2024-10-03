@@ -46,11 +46,19 @@ a {
   &:hover {
     color: $link;
   }
+  #iglink {
+  color: $link-text;
+  &:hover {
+    color: $link-hover;
+  }
+    
+  }
 }
 
 @import "pswp-default-skin";
 @import "photoswipe";
 @import "gallary";
+@import "collapsible-albums";
 
 
 h1 {

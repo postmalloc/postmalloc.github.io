@@ -1,0 +1,48 @@
+.album-section {
+    margin-bottom: 2em;
+  }
+  
+  .album-title {
+    margin-bottom: 1em;
+  }
+  
+  .collapse-button {
+    background: none;
+    border: none;
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .collapse-icon {
+    font-size: 0.8em;
+    transition: transform 0.3s ease;
+  }
+  
+  .collapse-button[aria-expanded="false"] .collapse-icon {
+    transform: rotate(-90deg);
+  }
+  
+  .album-content {
+    transition: max-height 0.3s ease, opacity 0.3s ease;
+    max-height: 20000px;
+    opacity: 1;
+    overflow: hidden;
+  }
+  
+  .album-content.collapsed {
+    max-height: 0;
+    opacity: 0;
+  }
+  
+  @media screen and (max-width: $layout-small) {
+    .collapse-button {
+      font-size: 0.9em;
+    }
+  }
