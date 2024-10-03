@@ -17,6 +17,7 @@
         ],
         "items": {
           "order": [
+            "Pra\u0308bichl",
             "Budapest B&W",
             "Bled, Slovenia",
             "Budapest, Hungary",
@@ -29,6 +30,28 @@
             "Campania, Italy"
           ],
           "dict": {
+            "Pra\u0308bichl": {
+              "name": "Pra\u0308bichl",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Pra\u0308bichl"
+              ],
+              "path": "./_data/albums/2024-Pra\u0308bichl.json",
+              "no_sub_album": true
+            },
+            "Ljubljana": {
+              "name": "Ljubljana",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Ljubljana"
+              ],
+              "path": "./_data/albums/2024-Ljubljana.json",
+              "no_sub_album": true
+            },
             "Budapest B&W": {
               "name": "Budapest B&W",
               "type": "album",

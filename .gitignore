@@ -2,6 +2,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+**/.DS_Store
 scripts/__pycache__/
 photos-back/
 venv/

@@ -1,5 +1,155 @@
 [
   {
+    "name": "Pra\u0308bichl",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Pra\u0308bichl"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-9.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-9.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-8.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-8.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-7.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-7.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-6.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-6.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-5.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-4.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-3.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-20.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-20.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-2.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-19.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-19.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-18.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-18.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-17.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-17.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-16.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-16.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-15.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-15.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-14.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-14.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1990,
+        "height": 3000,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-13.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-13.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-12.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-12.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-11.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-11.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-10.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-10.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 1990,
+        "path": "./photos/2024/Pra\u0308bichl/Photo-1.jpg",
+        "min_path": "./photos/2024/Pra\u0308bichl/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
     "name": "Budapest B&W",
     "type": "photos",
     "parents": [
