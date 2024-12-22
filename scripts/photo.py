@@ -59,7 +59,8 @@ class Photo():
         if conf.DEBUG:
             img.show()
         else:
-            img.save(path, 'PNG')
+            jpg_path = path.with_suffix('.jpg')  # Ensure the output file has a .jpg extension
+            img.convert('RGB').save(jpg_path, 'JPEG', quality=95)  # Save as JPEG with quality setting
     
     def mark_image(self, img, fontsize):
         width, height = img.size

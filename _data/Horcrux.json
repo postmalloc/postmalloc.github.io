@@ -17,61 +17,107 @@
         ],
         "items": {
           "order": [
+            "Prague, Czechia",
+            "October",
+            "Sicily, Italy",
             "Praebichl",
-						"Budapest B&W",
+            "Budapest B&W",
             "Bled, Slovenia",
             "Budapest, Hungary",
             "Ljubljana, Slovenia",
             "Leopoldsteinersee, Austria",
             "Admont, Austria",
             "Hallstatt, Austria",
-            "Frohnleiten, Austria",
             "April",
             "Campania, Italy"
           ],
           "dict": {
-            "Praebichl": {
-              "name": "Präbichl",
+            "Prague, Czechia": {
+              "name": "Prague, Czechia",
               "type": "album",
               "root": 2,
               "parents": [
                 "2024",
-                "Präbichl"
+                "Prague, Czechia"
               ],
-              "path": "./_data/albums/2024-Praebichl.json",
+              "path": "./_data/albums/2024-Prague, Czechia.json",
               "no_sub_album": true
             },
-            "Ljubljana": {
-              "name": "Ljubljana",
+            "October": {
+              "name": "October",
               "type": "album",
               "root": 2,
               "parents": [
                 "2024",
-                "Ljubljana"
+                "October"
               ],
-              "path": "./_data/albums/2024-Ljubljana.json",
+              "path": "./_data/albums/2024-October.json",
               "no_sub_album": true
             },
-            "Budapest B&W": {
-              "name": "Budapest B&W",
+            "Sicily, Italy": {
+              "name": "Sicily, Italy",
               "type": "album",
               "root": 2,
               "parents": [
                 "2024",
-                "Budapest B&W"
+                "Sicily, Italy"
               ],
-              "path": "./_data/albums/2024-Budapest B&W.json",
+              "path": "./_data/albums/2024-Sicily, Italy.json",
               "no_sub_album": true
             },
-            "Bled, Slovenia": {
-              "name": "Bled, Slovenia",
+            "Campania, Italy": {
+              "name": "Campania, Italy",
               "type": "album",
               "root": 2,
               "parents": [
                 "2024",
-                "Bled, Slovenia"
+                "Campania, Italy"
               ],
-              "path": "./_data/albums/2024-Bled, Slovenia.json",
+              "path": "./_data/albums/2024-Campania, Italy.json",
+              "no_sub_album": true
+            },
+            "April": {
+              "name": "April",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "April"
+              ],
+              "path": "./_data/albums/2024-April.json",
+              "no_sub_album": true
+            },
+            "Hallstatt, Austria": {
+              "name": "Hallstatt, Austria",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Hallstatt, Austria"
+              ],
+              "path": "./_data/albums/2024-Hallstatt, Austria.json",
+              "no_sub_album": true
+            },
+            "Admont, Austria": {
+              "name": "Admont, Austria",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Admont, Austria"
+              ],
+              "path": "./_data/albums/2024-Admont, Austria.json",
+              "no_sub_album": true
+            },
+            "Leopoldsteinersee, Austria": {
+              "name": "Leopoldsteinersee, Austria",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Leopoldsteinersee, Austria"
+              ],
+              "path": "./_data/albums/2024-Leopoldsteinersee, Austria.json",
               "no_sub_album": true
             },
             "Ljubljana, Slovenia": {
@@ -96,70 +142,37 @@
               "path": "./_data/albums/2024-Budapest, Hungary.json",
               "no_sub_album": true
             },
-            "Campania, Italy": {
-              "name": "Campania, Italy",
+            "Bled, Slovenia": {
+              "name": "Bled, Slovenia",
               "type": "album",
               "root": 2,
               "parents": [
                 "2024",
-                "Campania, Italy"
+                "Bled, Slovenia"
               ],
-              "path": "./_data/albums/2024-Campania, Italy.json",
+              "path": "./_data/albums/2024-Bled, Slovenia.json",
               "no_sub_album": true
             },
-            "Leopoldsteinersee, Austria": {
-              "name": "Leopoldsteinersee, Austria",
+            "Budapest B&W": {
+              "name": "Budapest B&W",
               "type": "album",
               "root": 2,
               "parents": [
                 "2024",
-                "Leopoldsteinersee, Austria"
+                "Budapest B&W"
               ],
-              "path": "./_data/albums/2024-Leopoldsteinersee, Austria.json",
+              "path": "./_data/albums/2024-Budapest B&W.json",
               "no_sub_album": true
             },
-            "April": {
-              "name": "April",
+            "Praebichl": {
+              "name": "Praebichl",
               "type": "album",
               "root": 2,
               "parents": [
                 "2024",
-                "April"
+                "Praebichl"
               ],
-              "path": "./_data/albums/2024-April.json",
-              "no_sub_album": true
-            },
-            "Frohnleiten, Austria": {
-              "name": "Frohnleiten, Austria",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2024",
-                "Frohnleiten, Austria"
-              ],
-              "path": "./_data/albums/2024-Frohnleiten, Austria.json",
-              "no_sub_album": true
-            },
-            "Admont, Austria": {
-              "name": "Admont, Austria",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2024",
-                "Admont, Austria"
-              ],
-              "path": "./_data/albums/2024-Admont, Austria.json",
-              "no_sub_album": true
-            },
-            "Hallstatt, Austria": {
-              "name": "Hallstatt, Austria",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2024",
-                "Hallstatt, Austria"
-              ],
-              "path": "./_data/albums/2024-Hallstatt, Austria.json",
+              "path": "./_data/albums/2024-Praebichl.json",
               "no_sub_album": true
             }
           }

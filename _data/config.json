@@ -1,149 +1,865 @@
 [
   {
-    "name": "Pr\u00e4bichl",
+    "name": "Prague, Czechia",
     "type": "photos",
     "parents": [
       "2024",
-      "Pr\u00e4bichl"
+      "Prague, Czechia"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-9.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-9.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-8.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-8.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-7.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-7.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-6.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-6.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-5.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-4.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-3.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Prague, Czechia/Photo-29.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-29.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Prague, Czechia/Photo-28.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-28.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Prague, Czechia/Photo-27.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-27.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Prague, Czechia/Photo-26.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-26.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Prague, Czechia/Photo-25.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-25.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Prague, Czechia/Photo-24.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-24.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Prague, Czechia/Photo-23.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-23.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Prague, Czechia/Photo-22.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-22.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-21.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-21.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-20.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-20.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-2.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-19.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-19.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-18.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-18.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-17.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-17.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-16.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-16.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-15.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-15.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-14.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-14.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-13.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-13.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-12.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-12.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-11.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-11.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-10.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-10.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Prague, Czechia/Photo-1.jpg",
+        "min_path": "./photos/2024/Prague, Czechia/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "October",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "October"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/October/Photo-9.jpg",
+        "min_path": "./photos/2024/October/Photo-9.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/October/Photo-8.jpg",
+        "min_path": "./photos/2024/October/Photo-8.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/October/Photo-7.jpg",
+        "min_path": "./photos/2024/October/Photo-7.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/October/Photo-6.jpg",
+        "min_path": "./photos/2024/October/Photo-6.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/October/Photo-5.jpg",
+        "min_path": "./photos/2024/October/Photo-5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/October/Photo-4.jpg",
+        "min_path": "./photos/2024/October/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/October/Photo-3.jpg",
+        "min_path": "./photos/2024/October/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/October/Photo-2.jpg",
+        "min_path": "./photos/2024/October/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/October/Photo-16.jpg",
+        "min_path": "./photos/2024/October/Photo-16.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/October/Photo-15.jpg",
+        "min_path": "./photos/2024/October/Photo-15.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/October/Photo-14.jpg",
+        "min_path": "./photos/2024/October/Photo-14.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/October/Photo-13.jpg",
+        "min_path": "./photos/2024/October/Photo-13.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/October/Photo-12.jpg",
+        "min_path": "./photos/2024/October/Photo-12.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/October/Photo-11.jpg",
+        "min_path": "./photos/2024/October/Photo-11.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/October/Photo-10.jpg",
+        "min_path": "./photos/2024/October/Photo-10.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/October/Photo-1.jpg",
+        "min_path": "./photos/2024/October/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Sicily, Italy",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Sicily, Italy"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-9.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-9.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-8.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-8.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-7.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-7.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-6.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-6.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-53.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-53.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-52.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-52.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-51.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-51.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-50.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-50.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-5.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-5.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-49.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-49.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-48.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-48.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Sicily, Italy/Photo-47.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-47.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Sicily, Italy/Photo-46.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-46.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-45.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-45.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Sicily, Italy/Photo-44.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-44.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Sicily, Italy/Photo-43.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-43.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Sicily, Italy/Photo-42.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-42.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Sicily, Italy/Photo-41.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-41.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Sicily, Italy/Photo-40.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-40.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-4.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-4.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-39.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-39.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-38.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-38.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-37.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-37.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-36.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-36.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-35.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-35.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-34.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-34.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-33.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-33.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-32.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-32.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-31.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-31.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-30.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-30.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-3.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-29.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-29.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-28.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-28.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-27.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-27.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-26.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-26.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-25.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-25.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-24.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-24.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-23.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-23.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-22.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-22.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-21.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-21.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-20.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-20.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-2.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-19.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-19.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-18.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-18.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-17.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-17.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-16.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-16.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-15.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-15.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-14.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-14.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-13.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-13.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-12.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-12.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-11.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-11.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1193,
+        "height": 1800,
+        "path": "./photos/2024/Sicily, Italy/Photo-10.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-10.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1193,
+        "path": "./photos/2024/Sicily, Italy/Photo-1.jpg",
+        "min_path": "./photos/2024/Sicily, Italy/Photo-1.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Praebichl",
+    "type": "photos",
+    "parents": [
+      "2024",
+      "Praebichl"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Praebichl/Photo-9.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-9.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Praebichl/Photo-8.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-8.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Praebichl/Photo-7.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-7.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Praebichl/Photo-6.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-6.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Praebichl/Photo-5.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-5.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Praebichl/Photo-4.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-4.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Praebichl/Photo-3.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-3.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Praebichl/Photo-20.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-20.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Praebichl/Photo-2.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-2.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Praebichl/Photo-19.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-19.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Praebichl/Photo-18.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-18.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Praebichl/Photo-17.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-17.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Praebichl/Photo-16.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-16.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Praebichl/Photo-15.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-15.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Praebichl/Photo-14.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-14.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Praebichl/Photo-13.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-13.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Praebichl/Photo-12.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-12.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Praebichl/Photo-11.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-11.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Praebichl/Photo-10.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-10.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Praebichl/Photo-1.jpg",
         "min_path": "./photos/2024/Praebichl/Photo-1.min.jpg"
       }
@@ -159,148 +875,148 @@
     "list": [
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-9.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-9.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Budapest B&W/Photo-8.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-8.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-7.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-7.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-6.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-6.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-5.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-5.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-4.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-4.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-3.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-3.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-21.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-21.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-20.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-20.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-2.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-2.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Budapest B&W/Photo-19.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-19.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-18.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-18.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-17.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-17.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-16.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-16.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-15.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-15.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-14.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-14.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Budapest B&W/Photo-13.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-13.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-12.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-12.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Budapest B&W/Photo-11.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-11.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-10.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-10.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest B&W/Photo-1.jpg",
         "min_path": "./photos/2024/Budapest B&W/Photo-1.min.jpg"
       }
@@ -316,57 +1032,64 @@
     "list": [
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Bled, Slovenia/Photo-9.jpg",
+        "min_path": "./photos/2024/Bled, Slovenia/Photo-9.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Bled, Slovenia/Photo-8.jpg",
         "min_path": "./photos/2024/Bled, Slovenia/Photo-8.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Bled, Slovenia/Photo-7.jpg",
         "min_path": "./photos/2024/Bled, Slovenia/Photo-7.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Bled, Slovenia/Photo-6.jpg",
         "min_path": "./photos/2024/Bled, Slovenia/Photo-6.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Bled, Slovenia/Photo-5.jpg",
         "min_path": "./photos/2024/Bled, Slovenia/Photo-5.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Bled, Slovenia/Photo-4.jpg",
         "min_path": "./photos/2024/Bled, Slovenia/Photo-4.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Bled, Slovenia/Photo-3.jpg",
         "min_path": "./photos/2024/Bled, Slovenia/Photo-3.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Bled, Slovenia/Photo-2.jpg",
         "min_path": "./photos/2024/Bled, Slovenia/Photo-2.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Bled, Slovenia/Photo-1.jpg",
         "min_path": "./photos/2024/Bled, Slovenia/Photo-1.min.jpg"
       }
@@ -382,274 +1105,232 @@
     "list": [
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-9.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-9.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-8.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-8.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-7.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-7.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-6.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-6.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-5.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-5.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-4.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-4.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
-        "path": "./photos/2024/Budapest, Hungary/Photo-39.jpg",
-        "min_path": "./photos/2024/Budapest, Hungary/Photo-39.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Budapest, Hungary/Photo-38.jpg",
-        "min_path": "./photos/2024/Budapest, Hungary/Photo-38.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Budapest, Hungary/Photo-37.jpg",
-        "min_path": "./photos/2024/Budapest, Hungary/Photo-37.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Budapest, Hungary/Photo-36.jpg",
-        "min_path": "./photos/2024/Budapest, Hungary/Photo-36.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Budapest, Hungary/Photo-35.jpg",
-        "min_path": "./photos/2024/Budapest, Hungary/Photo-35.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1990,
-        "height": 3000,
-        "path": "./photos/2024/Budapest, Hungary/Photo-34.jpg",
-        "min_path": "./photos/2024/Budapest, Hungary/Photo-34.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Budapest, Hungary/Photo-33.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-33.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Budapest, Hungary/Photo-32.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-32.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-31.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-31.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-30.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-30.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-3.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-3.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-29.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-29.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-28.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-28.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Budapest, Hungary/Photo-27.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-27.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Budapest, Hungary/Photo-26.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-26.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-25.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-25.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-24.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-24.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-23.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-23.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Budapest, Hungary/Photo-22.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-22.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-21.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-21.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-20.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-20.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-2.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-2.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-19.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-19.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Budapest, Hungary/Photo-18.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-18.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-17.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-17.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-16.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-16.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-15.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-15.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Budapest, Hungary/Photo-14.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-14.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Budapest, Hungary/Photo-13.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-13.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Budapest, Hungary/Photo-12.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-12.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-11.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-11.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-10.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-10.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Budapest, Hungary/Photo-1.jpg",
         "min_path": "./photos/2024/Budapest, Hungary/Photo-1.min.jpg"
       }
@@ -665,106 +1346,127 @@
     "list": [
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-9.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-9.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-8.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-8.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-7.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-7.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-6.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-6.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-5.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-5.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-4.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-4.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-3.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-3.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-2.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-2.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-18.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-18.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-17.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-17.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Ljubljana, Slovenia/Photo-16.jpg",
+        "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-16.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-15.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-15.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-14.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-14.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-13.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-13.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-12.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-12.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-11.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-11.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-10.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-10.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Ljubljana, Slovenia/Photo-1.jpg",
         "min_path": "./photos/2024/Ljubljana, Slovenia/Photo-1.min.jpg"
       }
@@ -780,64 +1482,71 @@
     "list": [
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-9.jpg",
         "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-9.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-8.jpg",
         "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-8.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-7.jpg",
         "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-7.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-6.jpg",
         "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-6.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-5.jpg",
         "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-5.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-4.jpg",
         "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-4.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-3.jpg",
         "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-3.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-2.jpg",
         "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-2.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-10.jpg",
+        "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-10.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Leopoldsteinersee, Austria/Photo-1.jpg",
         "min_path": "./photos/2024/Leopoldsteinersee, Austria/Photo-1.min.jpg"
       }
@@ -853,36 +1562,57 @@
     "list": [
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Admont, Austria/Photo-8.jpg",
+        "min_path": "./photos/2024/Admont, Austria/Photo-8.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Admont, Austria/Photo-7.jpg",
+        "min_path": "./photos/2024/Admont, Austria/Photo-7.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/Admont, Austria/Photo-6.jpg",
+        "min_path": "./photos/2024/Admont, Austria/Photo-6.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Admont, Austria/Photo-5.jpg",
         "min_path": "./photos/2024/Admont, Austria/Photo-5.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Admont, Austria/Photo-4.jpg",
         "min_path": "./photos/2024/Admont, Austria/Photo-4.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Admont, Austria/Photo-3.jpg",
         "min_path": "./photos/2024/Admont, Austria/Photo-3.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Admont, Austria/Photo-2.jpg",
         "min_path": "./photos/2024/Admont, Austria/Photo-2.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Admont, Austria/Photo-1.jpg",
         "min_path": "./photos/2024/Admont, Austria/Photo-1.min.jpg"
       }
@@ -898,62 +1628,59 @@
     "list": [
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-8.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-8.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-7.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-7.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
+        "path": "./photos/2024/Hallstatt, Austria/Photo-6.jpg",
+        "min_path": "./photos/2024/Hallstatt, Austria/Photo-6.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Hallstatt, Austria/Photo-5.jpg",
         "min_path": "./photos/2024/Hallstatt, Austria/Photo-5.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Hallstatt, Austria/Photo-4.jpg",
         "min_path": "./photos/2024/Hallstatt, Austria/Photo-4.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Hallstatt, Austria/Photo-3.jpg",
         "min_path": "./photos/2024/Hallstatt, Austria/Photo-3.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Hallstatt, Austria/Photo-2.jpg",
         "min_path": "./photos/2024/Hallstatt, Austria/Photo-2.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Hallstatt, Austria/Photo-1.jpg",
         "min_path": "./photos/2024/Hallstatt, Austria/Photo-1.min.jpg"
-      }
-    ]
-  },
-  {
-    "name": "Frohnleiten, Austria",
-    "type": "photos",
-    "parents": [
-      "2024",
-      "Frohnleiten, Austria"
-    ],
-    "list": [
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Frohnleiten, Austria/Photo-2.jpg",
-        "min_path": "./photos/2024/Frohnleiten, Austria/Photo-2.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Frohnleiten, Austria/Photo-1.jpg",
-        "min_path": "./photos/2024/Frohnleiten, Austria/Photo-1.min.jpg"
       }
     ]
   },
@@ -967,50 +1694,57 @@
     "list": [
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
+        "path": "./photos/2024/April/Photo-8.jpg",
+        "min_path": "./photos/2024/April/Photo-8.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/April/Photo-7.jpg",
         "min_path": "./photos/2024/April/Photo-7.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/April/Photo-6.jpg",
         "min_path": "./photos/2024/April/Photo-6.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1268,
+        "height": 1800,
         "path": "./photos/2024/April/Photo-5.jpg",
         "min_path": "./photos/2024/April/Photo-5.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/April/Photo-4.jpg",
         "min_path": "./photos/2024/April/Photo-4.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/April/Photo-3.jpg",
         "min_path": "./photos/2024/April/Photo-3.min.jpg"
       },
       {
         "type": "photo",
-        "width": 2114,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/April/Photo-2.jpg",
         "min_path": "./photos/2024/April/Photo-2.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/April/Photo-1.jpg",
         "min_path": "./photos/2024/April/Photo-1.min.jpg"
       }
@@ -1026,92 +1760,78 @@
     "list": [
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Campania, Italy/Photo-9.jpg",
         "min_path": "./photos/2024/Campania, Italy/Photo-9.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Campania, Italy/Photo-8.jpg",
         "min_path": "./photos/2024/Campania, Italy/Photo-8.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Campania, Italy/Photo-7.jpg",
         "min_path": "./photos/2024/Campania, Italy/Photo-7.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Campania, Italy/Photo-6.jpg",
         "min_path": "./photos/2024/Campania, Italy/Photo-6.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Campania, Italy/Photo-5.jpg",
         "min_path": "./photos/2024/Campania, Italy/Photo-5.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Campania, Italy/Photo-4.jpg",
         "min_path": "./photos/2024/Campania, Italy/Photo-4.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1990,
-        "height": 3000,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Campania, Italy/Photo-3.jpg",
         "min_path": "./photos/2024/Campania, Italy/Photo-3.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Campania, Italy/Photo-2.jpg",
         "min_path": "./photos/2024/Campania, Italy/Photo-2.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Campania, Italy/Photo-13.jpg",
-        "min_path": "./photos/2024/Campania, Italy/Photo-13.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
-        "path": "./photos/2024/Campania, Italy/Photo-12.jpg",
-        "min_path": "./photos/2024/Campania, Italy/Photo-12.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1194,
+        "height": 1800,
         "path": "./photos/2024/Campania, Italy/Photo-11.jpg",
         "min_path": "./photos/2024/Campania, Italy/Photo-11.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Campania, Italy/Photo-10.jpg",
         "min_path": "./photos/2024/Campania, Italy/Photo-10.min.jpg"
       },
       {
         "type": "photo",
-        "width": 3000,
-        "height": 1990,
+        "width": 1800,
+        "height": 1194,
         "path": "./photos/2024/Campania, Italy/Photo-1.jpg",
         "min_path": "./photos/2024/Campania, Italy/Photo-1.min.jpg"
       }

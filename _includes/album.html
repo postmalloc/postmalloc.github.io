@@ -16,7 +16,12 @@
           {%- for photo in album.list -%}
             <figure class="photo-figure" itemscope="">
               <a href="{{ photo.path }}" class="photo-a" itemprop="{{ photo.path }}" data-msrc="{{ photo.min_path }}" data-size="{{ photo.width }}x{{ photo.height }}">
-                <img src="{{ photo.min_path }}" class="photo-img" itemprop="thumbnail" alt="{{ photo.name }}" />
+                <img 
+                  src="{{ photo.min_path }}" 
+                  class="photo-img" 
+                  itemprop="thumbnail" 
+                  alt="{{ photo.name }}" 
+                  loading="lazy" />
               </a>
             </figure>
           {%- endfor -%}
