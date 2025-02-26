@@ -279,6 +279,67 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
   }
 };
 
+// Modify the parseThumbEls function to include description data
+var parseThumbnailElements = function(el) {
+    var thumbElements = el.childNodes,
+        numNodes = thumbElements.length,
+        items = [],
+        figureEl,
+        linkEl,
+        size,
+        item;
+
+    for(var i = 0; i < numNodes; i++) {
+
+        figureEl = thumbElements[i]; // <figure> element
+
+        // include only element nodes 
+        if(figureEl.nodeType !== 1) {
+            continue;
+        }
+
+        linkEl = figureEl.children[0]; // <a> element
+
+        size = linkEl.getAttribute('data-size').split('x');
+
+        // create slide object
+        item = {
+            src: linkEl.getAttribute('href'),
+            w: parseInt(size[0], 10),
+            h: parseInt(size[1], 10)
+        };
+
+        // Create caption from description, camera and film data
+        var description = linkEl.getAttribute('data-description');
+        var camera = linkEl.getAttribute('data-camera');
+        var film = linkEl.getAttribute('data-film');
+        
+        var captionParts = [];
+        if (description) captionParts.push(description);
+        if (camera) captionParts.push(camera);
+        if (film) captionParts.push(film);
+        
+        if (captionParts.length > 0) {
+            item.title = captionParts.join(' • ');
+        }
+
+        if(figureEl.children.length > 1) {
+            // <figcaption> content
+            item.title = figureEl.children[1].innerHTML; 
+        }
+
+        if(linkEl.children.length > 0) {
+            // <img> thumbnail element, retrieving thumbnail url
+            item.msrc = linkEl.children[0].getAttribute('src');
+        } 
+
+        item.el = figureEl; // save link to element for getThumbBoundsFn
+        items.push(item);
+    }
+
+    return items;
+};
+
 // execute above function
 initPhotoSwipeFromDOM('.photos');
 </script>

@@ -15,13 +15,20 @@
         <div class="photos">
           {%- for photo in album.list -%}
             <figure class="photo-figure" itemscope="">
-              <a href="{{ photo.path }}" class="photo-a" itemprop="{{ photo.path }}" data-msrc="{{ photo.min_path }}" data-size="{{ photo.width }}x{{ photo.height }}">
+              <a href="{{ photo.path }}" class="photo-a" itemprop="{{ photo.path }}" data-msrc="{{ photo.min_path }}" data-size="{{ photo.width }}x{{ photo.height }}" data-description="{{ photo.description }}" data-camera="{{ photo.camera }}" data-film="{{ photo.film }}">
                 <img 
-                  src="{{ photo.min_path }}" 
+                  data-src="{{ photo.min_path }}" 
                   class="photo-img" 
                   itemprop="thumbnail" 
-                  alt="{{ photo.name }}" 
+                  alt="{{ photo.name | default: 'Photo' }}" 
                   loading="lazy" />
+                {% if photo.description or photo.camera or photo.film %}
+                <div class="photo-description">
+                  {% if photo.description %}{{ photo.description }}{% endif %}
+                  {% if photo.camera %} • {{ photo.camera }}{% endif %}
+                  {% if photo.film %} • {{ photo.film }}{% endif %}
+                </div>
+                {% endif %}
               </a>
             </figure>
           {%- endfor -%}
