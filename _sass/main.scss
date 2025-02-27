@@ -1,5 +1,51 @@
 @import "base";
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+  position: relative;
+}
 
+/* Update responsive image handling */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Make sure containers respect boundaries */
+.gallary, .about-section, .photos {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* Fix photo containers on mobile */
+.photo-figure {
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+/* Fix for Firefox and some other browsers */
+@media screen and (max-width: $layout-small) {
+  body {
+    width: 100%;
+    min-width: 0;
+  }
+  
+  .photos {
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
+  .about-section, .social-links, .album-section, .album-content {
+    width: 100%;
+    box-sizing: border-box;
+    max-width: 100vw;
+  }
+  
+  .social-links {
+    flex-wrap: wrap;
+  }
+}
 html {
   background-color: $background;
   overflow-x: hidden;

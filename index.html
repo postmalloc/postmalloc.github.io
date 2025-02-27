@@ -18,7 +18,8 @@
         --row-gap-smal: {{ site.small_screen.row_gap }};
       }
     </style>
-    <link rel="stylesheet" href="{{ "/assets/style.css" | prepend: site.baseurl }}">
+    {% assign cache_buster = site.time | date: '%s' %}
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}?v={{ cache_buster }}">
     <SCRIPT TYPE="text/javascript"> 
       //Disable right click script 
       //visit http://www.rainbow.arch.scriptmania.com/scripts/ 
@@ -44,7 +45,8 @@
     </div>
     {%- include footer.html -%}
     {%- include swipe.html -%}
-    <script src="{{ '/assets/js/collapsible-albums.js' | relative_url }}"></script>
-    <script src="{{ '/assets/js/lazy-load.js' | relative_url }}"></script>
+    {% assign cache_buster = site.time | date: '%s' %}
+    <script src="{{ '/assets/js/collapsible-albums.js' | relative_url }}?v={{ cache_buster }}"></script>
+    <script src="{{ '/assets/js/lazy-load.js' | relative_url }}?v={{ cache_buster }}"></script>
   </body>
 </html>

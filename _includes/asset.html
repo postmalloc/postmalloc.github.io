@@ -1,0 +1,8 @@
+{% comment %}
+  Include file for asset fingerprinting to ensure cache busting
+  Usage: 
+    {% include asset.html path="/assets/style.css" %}
+{% endcomment %}
+
+{% assign cache_buster = site.time | date: '%s' %}
+{{ include.path | relative_url }}?v={{ cache_buster }}
