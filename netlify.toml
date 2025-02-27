@@ -68,7 +68,3 @@
 
 [build.processing.images]
   compress = true
-
-# Force a trailing slash for SEO consistency
-[[plugins]]
-  package = "netlify-plugin-force-trailing-slash"
