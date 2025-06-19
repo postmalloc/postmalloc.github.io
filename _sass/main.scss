@@ -3,6 +3,7 @@ html, body {
   overflow-x: hidden;
   width: 100%;
   position: relative;
+  scroll-padding-top: 60px; /* Add margin to top when jumping to anchors */
 }
 
 /* Update responsive image handling */
@@ -246,5 +247,89 @@ h1 {
 @media screen and (max-width: $layout-small) {
   .about-section {
     padding: 0 12px;
+  }
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content-wrapper {
+  display: flex; /* Re-enable flexbox for content and navbar */
+  flex: 1;
+  margin-left: 300px; /* Offset for fixed navbar */
+  box-sizing: border-box;
+}
+
+.navbar {
+  width: 300px;
+  padding: 180px 20px 20px 20px; /* Adjusted padding to match header height */
+  background-color: $background;
+  border-right: 1px solid #eee;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  overflow-y: auto;
+  box-sizing: border-box;
+  z-index: 100;
+
+  h3 {
+    color: $title;
+    font-size: 1.2em;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+    letter-spacing: 1.6px;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+      margin-bottom: 0.5em;
+
+      a {
+        color: $heading5;
+        text-decoration: none;
+        font-size: 0.9em;
+        display: block;
+        padding: 5px 0;
+        white-space: nowrap; /* Single line names */
+        overflow: hidden; /* Hide overflow content */
+        text-overflow: ellipsis; /* Add ellipsis for overflow */
+
+        &:hover {
+          color: $link-hover;
+        }
+      }
+    }
+  }
+}
+
+.gallary {
+  flex-grow: 1;
+  padding: 20px;
+  margin-left: auto; /* Center the gallary content */
+  margin-right: auto; /* Center the gallary content */
+  max-width: 955px; /* Limit width to center content */
+  box-sizing: border-box;
+  /* Removed width: calc(100% - 250px); */
+}
+
+/* Responsive adjustments for mobile */
+@media screen and (max-width: $layout-small) {
+  .navbar {
+    display: none; /* Hide navbar on small screens */
+  }
+  .content-wrapper {
+    margin-left: 0; /* Remove margin when navbar is hidden */
+  }
+  .gallary {
+    width: 100%; /* Take full width on small screens */
+    padding: 20px 12px; /* Adjust padding for small screens */
   }
 }

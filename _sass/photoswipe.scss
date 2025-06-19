@@ -51,10 +51,9 @@
 
 .pswp--zoom-allowed .pswp__img {
 	/* autoprefixer: off */
-	// cursor: -webkit-zoom-in;
-	// cursor: -moz-zoom-in;
-  // cursor: zoom-in;
-  cursor: default !important;
+	cursor: -webkit-zoom-in;
+	cursor: -moz-zoom-in;
+	cursor: zoom-in;
 }
 
 .pswp--zoomed-in .pswp__img {

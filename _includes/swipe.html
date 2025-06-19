@@ -237,10 +237,15 @@
             showHideOpacity: true,
             maxSpreadZoom: 2,
             getDoubleTapZoom: function(isMouseClick, item) {
-              return item.initialZoomLevel * 2;
+              // Always zoom to 1x on click, and allow further zooming via pinch/scroll
+              return 1;
             },
+            imageClickAction: 'zoom', // Enable zoom on single click
+            mouseMovePan: true, // Enable hand cursor for panning when zoomed
+            tapToToggleControls: false, // Disable tap to toggle controls
+            tapToClose: true, // Enable tap to close when clicking outside the image
             pinchToClose: false,
-            closeElClasses: ['img', 'item', 'caption', 'zoom-wrap', 'ui', 'top-bar']
+            closeElClasses: ['item', 'caption', 'zoom-wrap', 'ui', 'top-bar']
   
         };
   

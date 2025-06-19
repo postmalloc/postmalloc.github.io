@@ -35,18 +35,31 @@
     </SCRIPT> 
   </head>
   <body>
-    
-    {%- include header.html -%}
-    <div class="gallary">
-      <h1>{{ site.name }}</h1>
-      {% include about-section.html %}
-      {%- assign albums = site.data.config -%}
-      {%- include album.html -%}
+    <div class="container">
+      <div class="content-wrapper">
+        <nav class="navbar">
+          <ul>
+            {%- assign albums = site.data.config -%}
+            {%- for album in albums -%}
+              {%- if album.type == 'photos' -%}
+                {%- assign full_album_name = album.parents | reverse | join: ' · ' | replace: album.name, album.name | upcase -%}
+                <li><a href="#album-{{ album.name | slugify }}" title="{{ full_album_name }}">{{ full_album_name }}</a></li>
+              {%- endif -%}
+            {%- endfor -%}
+          </ul>
+        </nav>
+        <div class="gallary">
+          <h1>{{ site.name }}</h1>
+          {% include about-section.html %}
+          {%- assign albums = site.data.config -%}
+          {%- include album.html -%}
+        </div>
+      </div>
+      {%- include footer.html -%}
+      {%- include swipe.html -%}
+      {% assign cache_buster = site.time | date: '%s' %}
+      <script src="{{ '/assets/js/collapsible-albums.js' | relative_url }}?v={{ cache_buster }}"></script>
+      <script src="{{ '/assets/js/lazy-load.js' | relative_url }}?v={{ cache_buster }}"></script>
     </div>
-    {%- include footer.html -%}
-    {%- include swipe.html -%}
-    {% assign cache_buster = site.time | date: '%s' %}
-    <script src="{{ '/assets/js/collapsible-albums.js' | relative_url }}?v={{ cache_buster }}"></script>
-    <script src="{{ '/assets/js/lazy-load.js' | relative_url }}?v={{ cache_buster }}"></script>
   </body>
 </html>
